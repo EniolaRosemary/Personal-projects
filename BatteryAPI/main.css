@@ -1,0 +1,38 @@
+.item{
+    padding: 2px;
+}
+
+span{
+    justify-content: flex-end;
+    align-items: end;
+    float: right;
+}
+
+header{
+    text-align: center;
+    text-decoration: underline;
+    background-color: palevioletred;
+    padding-bottom: 1px;
+}
+.battery-container{
+    background-color: lightpink;
+    text-align: justify;
+}
+
+
+/*  <div class="item">
+<h3>Battery Level</h3>
+<span class="batteryLevel">Yes</span>
+</div>
+<div class="item">
+<h3>Charging</h3>
+<span class="batteryCharging">Yes</span>
+</div>
+<div class="item">
+<h3>Charging Time</h3>
+<span class="batteryChargingTime">Yes</span>
+</div>
+<div class="item">
+<h3>Discharging Time</h3>
+<span class="batteryDisChargingTime">Yes</span>
+</div> */
